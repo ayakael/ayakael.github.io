@@ -2,6 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom"><title>A Pelican Blog - test</title><link href="/" rel="alternate"></link><link href="/feeds/test.atom.xml" rel="self"></link><id>/</id><updated>2012-12-04T10:30:00+00:00</updated><entry><title>test</title><link href="/test.html" rel="alternate"></link><published>2012-12-03T10:30:00+00:00</published><updated>2012-12-04T10:30:00+00:00</updated><author><name>Antoine Martin</name></author><id>tag:None,2012-12-03:/test.html</id><summary type="html">&lt;p&gt;Test article&lt;/p&gt;</summary><content type="html">&lt;p&gt;THIS IS A MOD TEST&lt;/p&gt;
 &lt;p&gt;THIS IS A SECOND MOD TEST&lt;/p&gt;
 &lt;p&gt;YUP, NOTHER OD&lt;/p&gt;
+&lt;p&gt;FINAL TEST&lt;/p&gt;
 &lt;p&gt;This is intended as a quick reference and showcase. For more complete info, see &lt;a href="http://daringfireball.net/projects/markdown/"&gt;John Gruber's original spec&lt;/a&gt; and the &lt;a href="http://github.github.com/github-flavored-markdown/"&gt;Github-flavored Markdown info page&lt;/a&gt;.&lt;/p&gt;
 &lt;p&gt;Note that there is also a &lt;a href="./Markdown-Here-Cheatsheet"&gt;Cheatsheet specific to Markdown Here&lt;/a&gt; if that's what you're looking for. You can also check out &lt;a href="./Other-Markdown-Tools"&gt;more Markdown tools&lt;/a&gt;.&lt;/p&gt;
 &lt;h5&gt;Table of Contents&lt;/h5&gt;
